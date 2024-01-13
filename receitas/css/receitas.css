@@ -1,0 +1,31 @@
+.lista_receitas {
+    display: flex; 
+    justify-content: center; 
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+hr {
+    color: #f8f8f2;
+}
+
+.main_container {
+    display: flex;
+    gap: 1rem;
+}
+
+.card-title{
+    color: #f8f8f2;
+    font-weight: 100;
+    background-color: #282a36;
+}
+
+.card-body {
+    min-height: 1rem;
+    background-color: #282a36;
+}
+
+.card-body ul, .card-body li, .card-body ol {
+    background-color: #282a36;
+}
