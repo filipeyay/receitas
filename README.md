@@ -1,4 +1,4 @@
-# Site de Receitas
+# Trabalho da faculdade nível 1
 
-### Missão prática | Nível 1 | Mundo 1
-#### Meu primeiro site "cringe".
+### Missão Prática | Nível 1 | Mundo 2
+#### Site de receitas.
